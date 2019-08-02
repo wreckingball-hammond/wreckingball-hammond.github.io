@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WreckingBall</title>
+    <link>https://wreckingball-hammond.github.io/</link>
+    <description>Recent content on WreckingBall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2019 12:11:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://wreckingball-hammond.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wreckingball-hammond.github.io/about/</link>
+      <pubDate>Fri, 02 Aug 2019 12:11:16 +0800</pubDate>
+      
+      <guid>https://wreckingball-hammond.github.io/about/</guid>
+      <description>破坏球哈蒙德</description>
+    </item>
+    
+  </channel>
+</rss>
